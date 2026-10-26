@@ -1,117 +1,117 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Raheel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Integration%20%7C%20Data%20Engineering&descAlignY=58&descSize=18&descColor=a8d8ea" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d3557&height=220&section=header&text=Muhammad%20Raheel&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20AI%20Engineer%20%7C%20Scalable%20Cloud%20%26%20Data%20Architect&descAlignY=58&descSize=20&descColor=64ffda" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=4%2B+Years+of+Full-Stack+Engineering;Django+%7C+React+%7C+FastAPI+%7C+MERN;AWS+%7C+Azure+%7C+Docker+%7C+CI%2FCD;ETL+Pipelines+%7C+Apache+Spark+%7C+PySpark;AI-Powered+Applications+%7C+LLM+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer+%7C+5%2B+Years+of+Experience;Building+Production+AI%2C+RAG+%26+LLM-Powered+Systems;FastAPI+%7C+Django+%7C+React+%7C+TypeScript+%7C+MERN;Data+Engineering+%7C+Apache+Spark+%7C+PySpark+%7C+Azure+Synapse;Cloud-Native+Architecture+%7C+AWS+%7C+Microsoft+Azure+%7C+Docker" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Trust & Highlights Badges -->
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0ea5e9?style=for-the-badge&logo=rocket&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20AI%20Engineer-6366f1?style=for-the-badge&logo=openai&logoColor=white)
+![CGPA](https://img.shields.io/badge/BS%20Software%20Engineering-CGPA%203.5%20%2F%204.0-10b981?style=for-the-badge&logo=academia&logoColor=white)
+![Availability](https://img.shields.io/badge/Status-Open%20to%20Global%20Opportunities-f59e0b?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+<br/>
+
+<!-- Social & Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Raheel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-raheel-60bba81a9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-engmraheel3.github.io-1d3557?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engmraheel3.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-engmraheel3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engmraheel3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engmraheel3.github.io)
 [![Email](https://img.shields.io/badge/Email-raheelrana148%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raheelrana148@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B92%20309--7087050-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923097087050)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20309--7087050-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923097087050)
 
 <br/>
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=engmraheel3&label=Profile%20Views&color=2c5364&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/engmraheel3?label=Followers&style=flat-square&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=engmraheel3&label=Profile%20Views&color=0ea5e9&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/engmraheel3?label=Followers&style=flat-square&color=0ea5e9)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Executive Summary
+
+> Results-driven **Full Stack AI Engineer** with **5+ years of professional experience** designing, building, and scaling production-grade web applications, intelligent AI/LLM systems, and enterprise data pipelines. Proven track record of delivering mission-critical solutions for global industry leaders including **Microsoft**, **Electronic Arts (EA)**, **Alethea AI**, and **UtiliData**.
 
 ```python
 class MuhammadRaheel:
     def __init__(self):
         self.name        = "Muhammad Raheel"
-        self.role        = "Full-Stack Software Engineer"
+        self.role        = "Full Stack AI Engineer"
+        self.experience  = "5+ Years"
         self.location    = "Lahore, Pakistan 🇵🇰"
-        self.experience  = "4+ Years"
-        self.education   = "BS Software Engineering — Islamia University of Bahawalpur"
+        self.education   = {
+            "degree": "BS Software Engineering",
+            "university": "The Islamia University of Bahawalpur",
+            "cgpa": "3.5 / 4.0"
+        }
 
-        self.expertise   = [
-            "Full-Stack Web Development (Django · React · FastAPI · MERN)",
-            "AI & LLM Integration (Azure AI Search · Embeddings · Vector DBs)",
-            "ETL Pipelines & Data Engineering (PySpark · Apache Airflow · Spark)",
-            "Cloud Infrastructure (AWS · Azure · Docker · CI/CD)",
+        self.core_pillars = [
+            "Full-Stack AI Engineering (LLM Integration · RAG · Vector DBs · Model Fine-Tuning)",
+            "Scalable Backend Architecture (FastAPI · Django/DRF · Node.js · Go · GraphQL)",
+            "Modern Frontend Engineering (React · TypeScript · Redux · MobX · Ant Design)",
+            "Big Data & Cloud Infrastructure (PySpark · Azure Synapse · Airflow · AWS · Azure)",
         ]
 
-        self.clients     = [
+        self.enterprise_clients = [
             "Microsoft", "Electronic Arts (EA)", "Alethea AI",
             "UtiliData", "Construction Bevy", "Blueprint",
         ]
 
-        self.currently   = "Building scalable data pipelines @ Netsol Technologies"
-        self.open_to     = ["Remote Roles", "Freelance Projects", "Open Source Collaboration"]
+        self.current_focus = "Architecting enterprise AI & full-stack systems @ Netsol Technologies"
+        self.open_to       = ["Senior Full-Stack / AI Roles", "Enterprise Consulting", "Remote Opportunities"]
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together. 🚀")
+    def deliver_impact(self) -> str:
+        return "Engineering reliable, high-performance systems where Full-Stack meets AI. 🚀"
 
-me = MuhammadRaheel()
-me.say_hi()
+engineer = MuhammadRaheel()
+print(engineer.deliver_impact())
 ```
 
 ---
 
-## 🏢 Professional Experience
+## 🎯 Core Engineering Pillars
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔷 Netsol Technologies
-**Full Stack Developer** · *2024 – Present · Lahore*
-
-- Built high-performance REST APIs with **FastAPI** & async Python
-- Database design with **SQLAlchemy**, **Alembic** migrations, **PostgreSQL**
-- Developed modular **React** frontends with React Hook Form
-- Integrated FastAPI backends with scalable React architectures
+### 🧠 AI & LLM Engineering
+- **RAG & Semantic Search:** End-to-end vector embedding pipelines using **Azure AI Search** & Vector DBs
+- **Generative AI & Fine-Tuning:** Custom LLM workflows, voice/character AI model fine-tuning, and intelligent agents
+- **Enterprise Connectors:** Automated knowledge ingestion across **Slack, Jira, and Confluence**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔷 TechLeadz
-**Full Stack Developer** · *2023 – 2025 · Lahore*
-
-- Django + DRF backend systems at production scale
-- AI application development with **Azure AI Search** & vector DBs
-- Designed & maintained **ETL pipelines** with Apache Spark / PySpark
-- Cloud deployment on **AWS** and **Microsoft Azure**
+### ⚙️ Full-Stack Architecture
+- **High-Concurrency APIs:** Async microservices & REST/GraphQL APIs with **FastAPI, Django DRF, Node.js, and Go**
+- **Interactive Frontends:** Modular, type-safe UIs built with **React, TypeScript, Redux, MobX, and Vue.js**
+- **Database Reliability:** Schema optimization, **SQLAlchemy**, **Alembic** migrations, **PostgreSQL**, & **Elasticsearch**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔷 Enigmatix
-**Full Stack Developer** · *2020 – 2023 · Bahawalpur*
-
-- Scalable backend applications using **Django & DRF**
-- Secure API design with authentication mechanisms
-- Frontend development with **React, TypeScript, MobX & Ant Design**
-- Unit testing with **Pytest & unittest**
+### 📊 Data Engineering & ETL
+- **Big Data Processing:** Distributed data pipelines using **Apache Spark** and **PySpark**
+- **Workflow Orchestration:** Automated ETL scheduling & monitoring with **Apache Airflow** and **Azure Synapse**
+- **Analytics & Transformation:** High-volume data manipulation using **Pandas** and **NumPy**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 Notable Client Projects
-
-| Client | Domain |
-|--------|--------|
-| **Microsoft** | Azure Synapse / PySpark / C# |
-| **Electronic Arts** | AI Chat Backend / Azure AI |
-| **Alethea AI** | AI iNFT Platform / ML Fine-tuning |
-| **UtiliData** | GraphQL / Geolocation / AWS |
-| **Construction Bevy** | Elasticsearch / Heroku / DRF |
+### ☁️ Cloud & DevOps Excellence
+- **Multi-Cloud Deployment:** Production infrastructure across **AWS** and **Microsoft Azure**
+- **Containerization & CI/CD:** Reproducible deployments with **Docker**, **GitHub Actions**, and automated pipelines
+- **Quality Assurance:** Comprehensive unit & integration testing with **Pytest** and **unittest**
 
 </td>
 </tr>
@@ -119,198 +119,250 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🏢 Professional Experience
 
-### 🔙 Backend
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Netsol Technologies
+**Full Stack AI Engineer** · *2024 – Present · Lahore, Pakistan*
+
+- Architecting high-performance async REST APIs and AI-enabled backend services using **FastAPI** and **Python**
+- Designing resilient relational schemas with **PostgreSQL**, **SQLAlchemy ORM**, and **Alembic** migrations
+- Building scalable, modular **React** frontend architectures with **React Hook Form** and modern state management
+- Driving end-to-end integration between intelligent backend services and responsive enterprise interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 TechLeadz
+**Senior Full Stack & AI Developer** · *2023 – 2024 · Lahore, Pakistan*
+
+- Engineered production AI applications utilizing **Azure AI Search**, vector embeddings, and LLM orchestration
+- Built and maintained high-throughput **ETL pipelines** using **Apache Spark / PySpark** and **Azure Synapse**
+- Developed enterprise-scale **Django & DRF** backend platforms with strict security and SLA requirements
+- Managed cloud infrastructure and CI/CD workflows across **AWS** and **Microsoft Azure**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Enigmatix
+**Full Stack Software Engineer** · *2020 – 2023 · Bahawalpur, Pakistan*
+
+- Delivered full-lifecycle web platforms using **Django, Django REST Framework (DRF)**, and **React**
+- Implemented robust authentication, role-based access control (RBAC), and secure RESTful API architectures
+- Crafted dynamic, type-safe user interfaces with **React, TypeScript, MobX, and Ant Design**
+- Enforced high code reliability through automated test suites using **Pytest** and **unittest**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Global Enterprise Impact
+
+| Enterprise Client | Engineering Focus |
+| :--- | :--- |
+| **Microsoft** | Azure Synapse · PySpark · C# Pipelines |
+| **Electronic Arts (EA)** | Enterprise AI Chat · Azure AI Search · RAG |
+| **Alethea AI** | iNFT AI Platform · Voice AI Fine-Tuning |
+| **UtiliData** | Smart Grid GraphQL APIs · AWS · GIS |
+| **Construction Bevy** | Elasticsearch · DRF · Dockerized Cloud |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Enterprise Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟠 Electronic Arts (EA) — Enterprise AI Chat Platform
+`Django` `Azure AI Search` `Vector Embeddings` `RAG` `Slack/Jira/Confluence APIs`
+- Engineered the core backend for EA's internal AI-powered knowledge assistant.
+- Built automated **vector embedding pipelines** indexed in **Azure AI Search** for low-latency semantic retrieval.
+- Developed custom data connectors for **Slack, Jira, and Confluence** to keep enterprise context synchronized in real time.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Microsoft & Blueprint — Azure Synapse Data Engineering
+`PySpark` `Azure Synapse` `C#` `ETL Orchestration` `Unit Testing`
+- Designed and managed distributed **PySpark notebooks** inside **Azure Synapse Analytics** for enterprise data workloads.
+- Built automated pipeline triggers and orchestration workflows for large-scale data ingestion and transformation.
+- Contributed to **C# application services** and comprehensive unit testing to ensure production reliability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Alethea AI — Intelligent iNFT & Voice AI Platform
+`Django` `DRF` `AI Model Fine-Tuning` `Voice Synthesis` `REST APIs`
+- Architected scalable backend services powering interactive, intelligent **AI characters (iNFTs)**.
+- Integrated **voice-based AI model fine-tuning** pipelines utilizing custom audio samples for realistic real-time dialogue.
+- Ensured high availability and API reliability with extensive **Django unittest** coverage.
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 UtiliData — Smart Grid & Geolocation Platform
+`Django` `DRF` `GraphQL` `AWS` `Geolocation / GIS`
+- Led backend engineering as Senior Software Engineer for an enterprise smart-grid analytics platform.
+- Designed flexible **GraphQL APIs** and precision geolocation/geocoding services deployed on **AWS**.
+- Mentored junior engineers, enforced code review standards, and consistently delivered milestones ahead of schedule.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Construction Bevy — Contractor Intelligence Platform
+`Django` `DRF` `Elasticsearch` `Docker` `Heroku`
+- Built senior-level backend infrastructure for a General Contractor & Trade Partner collaboration network.
+- Integrated **Elasticsearch** for sub-second multi-faceted search across complex construction datasets.
+- Containerized microservices using **Docker** for seamless cloud deployment and horizontal scaling.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚪ Blaque Fitness — Personalized Fitness & Nutrition Engine
+`Django` `DRF` `REST APIs` `Mobile Backend` `Performance Optimization`
+- Architected RESTful backend APIs powering personalized workout and dynamic nutrition plan generation.
+- Engineered low-latency data synchronization and media delivery tailored for native **Android** applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### 🤖 AI, LLM & Data Engineering
+![OpenAI / LLMs](https://img.shields.io/badge/LLM_&_RAG_Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔙 Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🎨 Frontend
+### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF7102?style=for-the-badge&logo=mobx&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases, Cloud & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📊 Data Engineering & AI
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
----
-
-## 🚀 Key Projects
-
-<details>
-<summary><b>🔵 Microsoft & Blueprint — Azure Synapse Data Engineering</b></summary>
-<br>
-
-> **Stack:** PySpark · C# · Azure Synapse · Automated Pipelines
-
-- Managing PySpark notebooks within **Azure Synapse Analytics**
-- Automated pipeline triggers for PySpark notebook orchestration
-- Contributing to **C# application development** and unit testing
-- Optimizing and scaling enterprise-grade data pipelines
-- Cross-functional collaboration for large-scale system integration
-
-</details>
-
-<details>
-<summary><b>🟠 Electronic Arts — AI Chat Backend</b></summary>
-<br>
-
-> **Stack:** Django · Azure AI Search · Slack · Jira · Confluence
-
-- Backend AI application developer for EA's internal chat platform
-- Built and stored **vector embeddings** with Azure AI Search
-- Developed **custom connectors** for Slack, Jira & Confluence integration
-- Enhanced AI-powered chat reliability, accuracy, and performance
-
-</details>
-
-<details>
-<summary><b>🟣 Alethea AI — iNFT AI Platform</b></summary>
-<br>
-
-> **Stack:** Django · DRF · AI Model Fine-Tuning · Voice Samples
-
-- Backend architecture for an **AI-based iNFT platform**
-- Enabled real-time interaction with intelligent AI characters
-- **Voice-based AI model fine-tuning** using custom voice samples
-- Built scalable backend APIs with Django unittest coverage
-
-</details>
-
-<details>
-<summary><b>🟢 UtiliData — Smart Grid Platform</b></summary>
-<br>
-
-> **Stack:** Django · DRF · GraphQL · AWS · Geolocation
-
-- Senior Software Engineer leading backend development
-- Implemented **GraphQL APIs** and geolocation/geocoding features
-- Hands-on with **AWS services** for cloud infrastructure
-- Mentored junior developers and led timely project delivery
-
-</details>
-
-<details>
-<summary><b>🔴 Construction Bevy — GC & Trade Partner Platform</b></summary>
-<br>
-
-> **Stack:** Django · DRF · Elasticsearch · Docker · Heroku
-
-- Senior-level backend development for a contractor collaboration platform
-- Integrated **Elasticsearch** for advanced search capabilities
-- Containerized with **Docker**, deployed via **Heroku**
-- Improved system scalability and overall performance
-
-</details>
-
-<details>
-<summary><b>⚪ Blaque Fitness — Android Fitness App Backend</b></summary>
-<br>
-
-> **Stack:** Django · DRF · REST APIs · Mobile Integration
-
-- Backend APIs for personalized workout & diet plan generation
-- Seamless backend-to-Android integration
-- User data management, content delivery, and performance optimization
-
-</details>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engmraheel3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2c91c5&icon_color=2c91c5&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmraheel3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c91c5&text_color=c9d1d9"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=engmraheel3&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c91c5&ring=2c91c5&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2c91c5&sideLabels=2c91c5&dates=8b949e)](https://git.io/streak-stats)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Professional Certifications
 
-### 🎓 Education
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **BS Software Engineering** | The Islamia University of Bahawalpur | 2020 – 2024 |
-| **ICS** (Physics · CS · Math) | Superior Group of Colleges, Jahanian | 2018 – 2020 |
-| **Matric** (Physics · CS · Math · Chemistry) | Government High School | — |
+### 🏛️ Academic Background
 
-### 📜 Certifications
+| Degree | Institution | Timeline | Academic Standing |
+| :--- | :--- | :--- | :--- |
+| **BS in Software Engineering** | **The Islamia University of Bahawalpur** | 2020 – 2024 | **CGPA: 3.5 / 4.0** 🌟 |
+| **ICS (Physics · Computer Science · Mathematics)** | Superior Group of Colleges, Jahanian | 2018 – 2020 | First Division |
 
-| Certificate | Platform | Focus |
-|-------------|----------|-------|
-| Complete Intro to Computer Science | Frontend Masters | DSA |
-| Data Manipulation with Pandas | DataCamp | Data Analysis |
-| Intermediate Python | DataCamp | Advanced Python |
-| Intro to Python | DataCamp | Python Fundamentals |
-| Basics of Go | Frontend Masters | Golang |
-| Getting Started with React | Frontend Masters | React Basics |
-| Intermediate React | Frontend Masters | React Advanced |
-| Intro to React Native | Frontend Masters | Mobile Dev |
-| Programming Essentials in Python | Cisco Networking Academy | Python |
+### 📜 Verified Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐍 Python, Data & Computer Science
+- **Complete Intro to Computer Science (DSA)** — *Frontend Masters*
+- **Data Manipulation with Pandas** — *DataCamp*
+- **Intermediate Python** — *DataCamp*
+- **Programming Essentials in Python** — *Cisco Networking Academy*
+- **Intro to Python** — *DataCamp*
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚛️ Full-Stack & Systems Engineering
+- **Intermediate React** — *Frontend Masters*
+- **Getting Started with React** — *Frontend Masters*
+- **Intro to React Native** — *Frontend Masters*
+- **Basics of Go (Golang)** — *Frontend Masters*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Analytics
 
 <div align="center">
 
-> *"I'm always open to interesting conversations, projects, and opportunities."*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engmraheel3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmraheel3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=engmraheel3&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Exceptional
+
+<div align="center">
+
+> *"Whether you're scaling an AI-powered product, modernizing enterprise data pipelines, or building a full-stack platform from the ground up — let's connect."*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-raheel-60bba81a9/)
 [![Email Me](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raheelrana148@gmail.com)
-[![Visit Portfolio](https://img.shields.io/badge/View%20Portfolio-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engmraheel3.github.io)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engmraheel3)
+[![Visit Portfolio](https://img.shields.io/badge/Explore%20Portfolio-1d3557?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engmraheel3.github.io)
+[![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923097087050)
 
 <br/>
 
-📍 **Allama Iqbal Town, Lahore, Pakistan** &nbsp;|&nbsp; 📞 **+92 309-7087050**
+📍 **Allama Iqbal Town, Lahore, Pakistan** &nbsp;|&nbsp; 📧 **raheelrana148@gmail.com** &nbsp;|&nbsp; 📞 **+92 309-7087050**
 
 </div>
 
----
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,50:112240,100:0a192f&height=120&section=footer" />
 
 <div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
-<sub>⭐ If you found my profile interesting, consider giving my repositories a star!</sub>
-
+  <sub>⭐ If you find my work inspiring, consider starring my repositories!</sub>
 </div>
